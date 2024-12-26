@@ -29,15 +29,18 @@ div{
 button{
     font-size: 30px;
     margin-top: 3rem;
-    background-color: rgb(172, 124, 235);
+    background-color: rgb(100, 63, 149);
     margin-bottom: 3rem;
     border-radius: 6px;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 
 }
 button:hover{
-    background-color: rgb(248, 255, 50);
+    background-color: rgb(183, 0, 255);
     
+}
+button:active {
+    background-color: rgb(172, 124, 235); 
 }
 #text{
     margin-top: 1.7rem;
